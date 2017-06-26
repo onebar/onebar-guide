@@ -1,7 +1,7 @@
 OneBar.io Guide
 =================
 
-[![onebar.io](onebar-gray.png)](https://onebar.io)
+[![onebar.io](https://github.com/onebar/onebar-guide/raw/master/onebar-gray.png)](https://onebar.io)
 
 OneBar is a desktop app, looking similar to Apple Spotlight, but providing a totally different experience. Instead of searching your computer, OneBar lets you search through your company cloud.
 
@@ -26,7 +26,7 @@ Available builds:
 On the first start, it will ask you to enter your team URL.
 Please use the team subdomain, you've choosen during the registration, or a custom URL if you're using on-prem installation.
 
-![Change team screen](change-team.png)
+![Change team screen](https://github.com/onebar/onebar-guide/raw/master/change-team.png)
 
 You can later change the team URL by right-clicking on the onebar tray icon and chosing "Change team" or pressing `Cmd(Ctrl)+Shift+T` shortcut.
 
@@ -44,17 +44,17 @@ By default you're searching the whole index, but you can narrow down the scope b
 
 Clink on the result or hit `Enter` to see the full document preview.
 
-![Search demo](search.gif)
+![Search demo](https://github.com/onebar/onebar-guide/raw/master/search.gif)
 
 You can select any word or phrase you see and start a new search, without leaving the current document preview.
 
-![Split search demo](split-search.gif)
+![Split search demo](https://github.com/onebar/onebar-guide/raw/master/split-search.gif)
 
 # Keyboard shortcuts
 
 Keep an eye on the shortcuts bar at the bottom of the window. Depending on the context, it shows you available keyboard shortcuts. Use them to make your search experience smoother and faster.
 
-![Shortcuts](shortcuts.png)
+![Shortcuts](https://github.com/onebar/onebar-guide/raw/master/shortcuts.png)
 
 # Help and Support
 
